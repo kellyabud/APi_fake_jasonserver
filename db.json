@@ -1,0 +1,60 @@
+{
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "ano_publicacao": 1605,
+      "editoraId": 2
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "ano_publicacao": 1925,
+      "id": 2,
+      "editoraId": 1
+    },
+    {
+      "titulo": "Cem Anos de Solidão",
+      "autor": "Gabriel García Márquez",
+      "ano_publicacao": 1967,
+      "id": 4,
+      "editoraId": 2
+    },
+    {
+      "titulo": "A Máquina do Tempo",
+      "autor": "H.G. Wells",
+      "ano_publicacao": 1895,
+      "id": 5,
+      "editoraId": 1
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "ano_publicacao": 1925,
+      "id": 6
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "ano_publicacao": 1925,
+      "id": 7
+    },
+    {
+      "titulo": "O Grande Gatsby",
+      "autor": "F. Scott Fitzgerald",
+      "ano_publicacao": 1925,
+      "id": 8
+    }
+  ],
+  "editoras": [
+    {
+      "id": 1,
+      "nome": "Moderna"
+    },
+    {
+      "id": 2,
+      "nome": "Brasil"
+    }
+  ]
+}
