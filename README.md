@@ -4,7 +4,7 @@
 </div>
 </br>
 <div align="center">
-<img src="https://github.com/kellyabud/APi_fake_jsonserver/assets/135430840/edce96a0-4f8c-42c1-b72e-1172681ef6cd" />
+<img src="https://github.com/kellyabud/APi_fake_jsonserver/assets/135430840/e9512142-b681-4879-b246-4db81eed496e" />
 </div>
 
 
